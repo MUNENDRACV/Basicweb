@@ -1,4 +1,4 @@
 const onLoaded = () => {
-    alert(`Page Loaded`);
+    console.log(`Page Loaded`);
 }
 window.addEventListener('load', onLoaded);
